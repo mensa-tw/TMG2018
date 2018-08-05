@@ -175,6 +175,19 @@ button:focus {
 
 /* ========= BUTTON =========*/
 
+.mu-lang-btn {
+	background-color: transparent;
+	border: 2px solid #fff;
+	color: #fff;
+	padding: 10px 35px;
+	margin-top: 0px;
+        float:right;
+	letter-spacing: 1px;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
 .mu-primary-btn {
 	background-color: transparent;
 	border-radius: 4px;
