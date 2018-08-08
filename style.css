@@ -245,9 +245,13 @@ button:focus {
 }
 
 .mu-hero-overlay {
+        background-image: url("assets/images/head-featured-bg.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+        -webkit-background-size: cover;
 	display: inline;
 	float: left;
-	opacity: 0.94;
 	width: 100%;
 }
 
